@@ -8,7 +8,7 @@ const {join} = require("path");
 const fast2sms = require("fast-two-sms");
 const config = require("../config.json");
 
-
+// mail transport function;
 const mailTransport = nodemailer.createTransport({
 	"service": "gmail",
 	"auth": {
