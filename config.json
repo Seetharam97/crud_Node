@@ -1,0 +1,4 @@
+{
+	"connectionString": "mongodb://localhost:27017/crud",
+	"sms_api_key": "1muQ4WobCZ61XsiyeKmTCTuJuuhsUqcmQIWrChoBss5LyZUQGVN0ADsZZvvo"
+}
